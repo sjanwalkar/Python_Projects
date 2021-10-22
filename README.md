@@ -17,6 +17,8 @@ We have a set of points each with with X & Y coordinates. <br />
 
 • This is a GREEDY ALGORITHM
 
+![project_img](https://user-images.githubusercontent.com/84242964/138485573-47d73d08-e6e0-4b39-b4b7-a3983e7990b0.png)
+
 # Pseudo Code
 1.	Read input file in ip_data
 2.	Extract number of points ‘n’, x-coordinates & y-coordinates from ip_data
